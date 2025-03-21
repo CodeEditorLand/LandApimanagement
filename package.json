@@ -816,12 +816,12 @@
 	"devDependencies": {
 		"@types/fs-extra": "11.0.4",
 		"@types/jsonwebtoken": "9.0.9",
-		"@types/node": "22.13.9",
+		"@types/node": "22.13.10",
 		"@types/request": "2.48.12",
 		"@types/request-promise": "4.1.51",
 		"@types/request-promise-native": "1.0.21",
 		"@types/swagger-parser": "7.0.1",
-		"@types/ws": "8.5.14"
+		"@types/ws": "8.18.0"
 	},
 	"extensionDependencies": [
 		"humao.rest-client"
